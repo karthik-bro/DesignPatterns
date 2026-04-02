@@ -6,7 +6,7 @@ A comprehensive collection of **GoF Design Patterns** implemented in Java. This 
 ## Project Overview
 Design patterns are typical solutions to commonly occurring problems in software design. This repository demonstrates how to apply these "blueprints" to real-world Java development, following industry standards for modular architecture.
 
-## 📂 Design Patterns Included
+## Design Patterns Included
 
 ### 🏗️ Creational Patterns (Object Creation)
 *   **Singleton**: Ensures a class has only one instance with a global point of access.
