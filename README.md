@@ -3,7 +3,7 @@
 
 A comprehensive collection of **GoF Design Patterns** implemented in Java. This project serves as a reference for writing clean, maintainable, and scalable object-oriented code.
 
-## 📌 Project Overview
+## Project Overview
 Design patterns are typical solutions to commonly occurring problems in software design. This repository demonstrates how to apply these "blueprints" to real-world Java development, following industry standards for modular architecture.
 
 ## 📂 Design Patterns Included
