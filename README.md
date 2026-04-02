@@ -8,7 +8,7 @@ Design patterns are typical solutions to commonly occurring problems in software
 
 ## Design Patterns Included
 
-### 🏗️ Creational Patterns (Object Creation)
+### Creational Patterns (Object Creation)
 *   **Singleton**: Ensures a class has only one instance with a global point of access.
 *   **Factory Method**: Defines an interface for creating objects, letting subclasses decide which class to instantiate.
 *   **Builder**: Separates the construction of a complex object from its representation.
